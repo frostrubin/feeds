@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-03T05:40:09.700Z</updated>
+    <updated>2025-04-03T17:42:12.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nacht der Bibliotheken in der Stadtbibliothek Alzenau (Alzenau Mitteilungen)]]></title>
@@ -86,6 +86,15 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Neue Öffnungszeiten für den Recyclinghof ab 1. April 2025 (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Neue-%C3%96ffnungszeiten-f%C3%BCr-den-Recyclinghof-ab-1-April-2025.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7157.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Neue-%C3%96ffnungszeiten-f%C3%BCr-den-Recyclinghof-ab-1-April-2025.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7157.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-03-29T18:47:57.842Z</updated>
+        <content type="html"><![CDATA[ Ab Dienstag, 1. April 2025, gelten für den Recyclinghof in der Brentanostraße 4 (Zufahrt über Robert-Bosch-Straße) in Alzenau folgende neue Öffnungszeiten:
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Grünabfallplätze öffnen ab 1. April 2025 wieder länger (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Gr%C3%BCnabfallpl%C3%A4tze-%C3%B6ffnen-ab-1-April-2025-wieder-l%C3%A4nger.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7158.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Gr%C3%BCnabfallpl%C3%A4tze-%C3%B6ffnen-ab-1-April-2025-wieder-l%C3%A4nger.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7158.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
@@ -109,15 +118,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Information-aus-dem-Landratsamt-Versp%C3%A4tete-M%C3%BCllabfuhr.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7153.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-03-29T18:47:57.840Z</updated>
         <content type="html"><![CDATA[ In den kommenden Wochen kann es zu Verspätungen in der Müllabfuhr kommen. Grund sind krankheitsbedingte Personalausfälle beim Entsorgungsunternehmen in Kombination mit technischen Ausfällen an dessen Fahrzeugen.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neue Öffnungszeiten für den Recyclinghof ab 1. April 2025 (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Neue-%C3%96ffnungszeiten-f%C3%BCr-den-Recyclinghof-ab-1-April-2025.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7157.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Neue-%C3%96ffnungszeiten-f%C3%BCr-den-Recyclinghof-ab-1-April-2025.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7157.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-03-29T18:47:57.842Z</updated>
-        <content type="html"><![CDATA[ Ab Dienstag, 1. April 2025, gelten für den Recyclinghof in der Brentanostraße 4 (Zufahrt über Robert-Bosch-Straße) in Alzenau folgende neue Öffnungszeiten:
 								
 					weiterlesen »]]></content>
     </entry>
