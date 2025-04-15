@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-15T05:41:08.792Z</updated>
+    <updated>2025-04-15T17:39:53.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[A 45 Anschlussstelle Alzenau-Mitte voll gesperrt (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/A-45-Anschlussstelle-Alzenau-Mitte-voll-gesperrt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7197.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/A-45-Anschlussstelle-Alzenau-Mitte-voll-gesperrt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7197.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-04-15T17:39:52.416Z</updated>
+        <content type="html"><![CDATA[ Die Fahrbahn der Staatsstraße 2805 zwischen dem Ortsausgang von Kahl am Main und der A 45 Anschlussstelle Alzenau-Mitte wird ab Montag, 5. Mai 2025, in mehreren Bauabschnitten erneuert. Die Bauarbeiten zwischen der Kreuzung Königsberger Straße/Zur Sandmühle in Kahl am Main und den Kreisverkehren zur A 45 können nur unter abschnittsweiser Vollsperrung erfolgen.
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sperrung der St 2305 zwischen Alzenau und Michelbach (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Sperrung-der-St-2305-zwischen-Alzenau-und-Michelbach.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7196.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
