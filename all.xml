@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-20T05:40:36.859Z</updated>
+    <updated>2025-04-20T17:38:57.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Car-Sharing-Projekt in Alzenau (Alzenau Mitteilungen)]]></title>
@@ -174,6 +174,15 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Information aus dem Landratsamt: Verspätete Müllabfuhr (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Information-aus-dem-Landratsamt-Versp%C3%A4tete-M%C3%BCllabfuhr.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7153.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Information-aus-dem-Landratsamt-Versp%C3%A4tete-M%C3%BCllabfuhr.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7153.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-03-29T18:47:57.840Z</updated>
+        <content type="html"><![CDATA[ In den kommenden Wochen kann es zu Verspätungen in der Müllabfuhr kommen. Grund sind krankheitsbedingte Personalausfälle beim Entsorgungsunternehmen in Kombination mit technischen Ausfällen an dessen Fahrzeugen.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Neue Öffnungszeiten für den Recyclinghof ab 1. April 2025 (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Neue-%C3%96ffnungszeiten-f%C3%BCr-den-Recyclinghof-ab-1-April-2025.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7157.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Neue-%C3%96ffnungszeiten-f%C3%BCr-den-Recyclinghof-ab-1-April-2025.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7157.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
@@ -192,11 +201,11 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Information aus dem Landratsamt: Verspätete Müllabfuhr (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Information-aus-dem-Landratsamt-Versp%C3%A4tete-M%C3%BCllabfuhr.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7153.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Information-aus-dem-Landratsamt-Versp%C3%A4tete-M%C3%BCllabfuhr.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7153.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-03-29T18:47:57.840Z</updated>
-        <content type="html"><![CDATA[ In den kommenden Wochen kann es zu Verspätungen in der Müllabfuhr kommen. Grund sind krankheitsbedingte Personalausfälle beim Entsorgungsunternehmen in Kombination mit technischen Ausfällen an dessen Fahrzeugen.
+        <title type="html"><![CDATA[Denken Sie rechtzeitig an die Aktualisierung Ihrer Reisedokumente (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Denken-Sie-rechtzeitig-an-die-Aktualisierung-Ihrer-Reisedokumente.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7151.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Denken-Sie-rechtzeitig-an-die-Aktualisierung-Ihrer-Reisedokumente.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7151.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-03-29T18:47:57.851Z</updated>
+        <content type="html"><![CDATA[ Auch wenn sich zurzeit erst die ersten Frühlingssonnenstrahlen zeigen – wer eine Reise plant, sollte frühzeitig die Gültigkeit seiner Ausweisdokumente überprüfen. Besonders vor den Ferienzeiten kann es zu einem erhöhten Andrang bei der Terminvergabe im Rathaus kommen.
 								
 					weiterlesen »]]></content>
     </entry>
@@ -206,15 +215,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zunahme-von-illegalen-M%C3%BCllablagerungen-im-Stadtgebiet.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7156.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-03-29T18:47:57.849Z</updated>
         <content type="html"><![CDATA[ Immer häufiger wird die Stadt Alzenau mit illegal entsorgtem Abfall an Wertstoffsammelplätzen, in Grünanlagen, Wäldern und öffentlichen Abfallbehältern konfrontiert. Die Folgen sind nicht nur unschöne Verschmutzungen, sondern auch hohe Kosten für die Allgemeinheit.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denken Sie rechtzeitig an die Aktualisierung Ihrer Reisedokumente (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Denken-Sie-rechtzeitig-an-die-Aktualisierung-Ihrer-Reisedokumente.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7151.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Denken-Sie-rechtzeitig-an-die-Aktualisierung-Ihrer-Reisedokumente.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7151.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-03-29T18:47:57.851Z</updated>
-        <content type="html"><![CDATA[ Auch wenn sich zurzeit erst die ersten Frühlingssonnenstrahlen zeigen – wer eine Reise plant, sollte frühzeitig die Gültigkeit seiner Ausweisdokumente überprüfen. Besonders vor den Ferienzeiten kann es zu einem erhöhten Andrang bei der Terminvergabe im Rathaus kommen.
 								
 					weiterlesen »]]></content>
     </entry>
