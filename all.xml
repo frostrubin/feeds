@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-22T05:41:40.592Z</updated>
+    <updated>2025-04-22T17:40:15.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Barrierefrei surfen: Alzenau.de jetzt mit Eye-Able® Assist (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Barrierefrei-surfen-Alzenau-de-jetzt-mit-Eye-Able-Assist.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7201.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Barrierefrei-surfen-Alzenau-de-jetzt-mit-Eye-Able-Assist.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7201.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-04-22T17:40:14.286Z</updated>
+        <content type="html"><![CDATA[ Die Stadt Alzenau macht einen weiteren Schritt in Richtung digitale Barrierefreiheit: Ab sofort ist auf unserer Website www.alzenau.de das Tool Eye-Able® Assist eingebunden. Die Software unterstützt Menschen mit Einschränkungen dabei, unsere Inhalte einfacher und barrierefreier zu nutzen.
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Car-Sharing-Projekt in Alzenau (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Car-Sharing-Projekt-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7199.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
@@ -215,15 +224,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zunahme-von-illegalen-M%C3%BCllablagerungen-im-Stadtgebiet.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7156.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-03-29T18:47:57.849Z</updated>
         <content type="html"><![CDATA[ Immer häufiger wird die Stadt Alzenau mit illegal entsorgtem Abfall an Wertstoffsammelplätzen, in Grünanlagen, Wäldern und öffentlichen Abfallbehältern konfrontiert. Die Folgen sind nicht nur unschöne Verschmutzungen, sondern auch hohe Kosten für die Allgemeinheit.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Informationen zur neuen Grundsteuer (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Informationen-zur-neuen-Grundsteuer.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7122.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Informationen-zur-neuen-Grundsteuer.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7122.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-04-18T17:39:48.217Z</updated>
-        <content type="html"><![CDATA[ Sie müssen mehr bezahlen? Dies kann eine Folge des neuen Grundsteuerrechts sein.
 								
 					weiterlesen »]]></content>
     </entry>
