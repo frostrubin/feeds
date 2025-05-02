@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-02T05:41:42.712Z</updated>
+    <updated>2025-05-02T17:39:55.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Aktueller Projektstand und Ausblick: Einladung zur Infoveranstaltung zum geplanten Windpark Sülzert am 14. Mai 2025 (Alzenau Mitteilungen)]]></title>
@@ -86,6 +86,15 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zu verkaufen: Grundstücke im Stadtgebiet (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zu-verkaufen-Immobilien-und-Grundst%C3%BCcke.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7186.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zu-verkaufen-Immobilien-und-Grundst%C3%BCcke.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7186.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-04-10T17:39:19.110Z</updated>
+        <content type="html"><![CDATA[ Die Stadt Alzenau bietet Baugrundstücke im „Lindenweg“, in der „Hanauer Straße 29“, der Hanauer Straße 62“, Kernstadt Alzenau, sowie in der „Hörsteiner Straße/Schiffweg“ im Stadtteil Hörstein gegen Höchstgebot zum Kauf an.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stadtrat lehnt Haushaltsentwurf 2025 ab (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stadtrat-lehnt-Haushaltsentwurf-2025-ab.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7188.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stadtrat-lehnt-Haushaltsentwurf-2025-ab.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7188.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
@@ -109,15 +118,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Sicherheitstraining-f%C3%BCr-Nutzer-von-Rollatoren.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7190.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-04-10T17:39:19.113Z</updated>
         <content type="html"><![CDATA[ Sicher im Straßenverkehr mit dem Rollator
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zu verkaufen: Grundstücke im Stadtgebiet (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zu-verkaufen-Immobilien-und-Grundst%C3%BCcke.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7186.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zu-verkaufen-Immobilien-und-Grundst%C3%BCcke.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7186.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-04-10T17:39:19.110Z</updated>
-        <content type="html"><![CDATA[ Die Stadt Alzenau bietet Baugrundstücke im „Lindenweg“, in der „Hanauer Straße 29“, der Hanauer Straße 62“, Kernstadt Alzenau, sowie in der „Hörsteiner Straße/Schiffweg“ im Stadtteil Hörstein gegen Höchstgebot zum Kauf an.
 								
 					weiterlesen »]]></content>
     </entry>
