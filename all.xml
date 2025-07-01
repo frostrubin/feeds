@@ -2,14 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-01T05:46:19.762Z</updated>
+    <updated>2025-07-01T17:44:12.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Ein Haus für Einsatz, Zusammenhalt und Zukunft (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ein-Haus-f%C3%BCr-Einsatz-Zusammenhalt-und-Zukunft.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7239.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ein-Haus-f%C3%BCr-Einsatz-Zusammenhalt-und-Zukunft.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7239.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-07-01T17:44:11.356Z</updated>
+        <content type="html"><![CDATA[ Ab heute, 1. Juli 2025, ist die neu fusionierte Feuerwehr Michelbach-Kälberau offiziell im Dienst. Bereits am Wochenende wurde das neue Feuerwehrhaus eingeweiht.								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sich auf die Hitze vorbereiten (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Sich-auf-die-Hitze-vorbereiten.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7238.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Sich-auf-die-Hitze-vorbereiten.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7238.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-06-30T17:42:05.387Z</updated>
-        <content type="html"><![CDATA[ Laut aktueller Prognosen wird das hochsommerliche Wetter am Mittwoch, den 2. Juli 2025 einen seine Höhepunkte erreichen. Das Landratsamt bittet daher darum, sich auf die Wetterlage entsprechend einzustellen.
+        <content type="html"><![CDATA[ Laut aktueller Prognosen wird das hochsommerliche Wetter am Mittwoch, 2. Juli 2025, einen Höhepunkte erreichen. Das Landratsamt bittet daher darum, sich auf die Wetterlage entsprechend einzustellen.
 								
 					weiterlesen »]]></content>
     </entry>
@@ -217,14 +225,6 @@
         <updated>2025-06-19T17:43:45.004Z</updated>
         <content type="html"><![CDATA[ Sicher im Straßenverkehr mit dem Rollator
 								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Die Natur erwacht und lädt zu Outdoor-Aktivitäten ein (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Die-Natur-erwacht-und-l%C3%A4dt-zu-Outdoor-Aktivit%C3%A4ten-ein.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7184.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Die-Natur-erwacht-und-l%C3%A4dt-zu-Outdoor-Aktivit%C3%A4ten-ein.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7184.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-06-19T17:43:45.006Z</updated>
-        <content type="html"><![CDATA[ Frühling in Alzenau								
 					weiterlesen »]]></content>
     </entry>
 </feed>
