@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-08-02T05:49:52.571Z</updated>
+    <updated>2025-08-02T17:43:34.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Rathaus am 9. August 2025 geschlossen (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Rathaus-am-9-August-2025-geschlossen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7277.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Rathaus-am-9-August-2025-geschlossen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7277.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-07-30T17:46:23.257Z</updated>
+        <content type="html"><![CDATA[ Am Samstag, 9. August 2025, bleibt das Rathaus der Stadt Alzenau wegen des Alzenauer Stadtfestes geschlossen. 
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pilzführungen in Alzenau (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Pilzf%C3%BChrungen-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7275.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
@@ -19,15 +28,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zweckentfremdung-von-Garagen-ist-nicht-erlaubt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7276.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-07-30T17:46:23.255Z</updated>
         <content type="html"><![CDATA[ Wir möchten alle Grundstückseigentümerinnen und -eigentümer erneut daran erinnern, dass Kfz-Stellplätze – insbesondere in Garagen – ausschließlich zum Abstellen von Fahrzeugen vorgesehen sind.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rathaus am 9. August 2025 geschlossen (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Rathaus-am-9-August-2025-geschlossen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7277.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Rathaus-am-9-August-2025-geschlossen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7277.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-30T17:46:23.257Z</updated>
-        <content type="html"><![CDATA[ Am Samstag, 9. August 2025, bleibt das Rathaus der Stadt Alzenau wegen des Alzenauer Stadtfestes geschlossen. 
 								
 					weiterlesen »]]></content>
     </entry>
