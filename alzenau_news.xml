@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/</id>
     <title>Alzenau Mitteilungen</title>
-    <updated>2025-08-14T05:45:21.801Z</updated>
+    <updated>2025-08-14T17:42:50.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.alzenau.de/layout/alzenau/assets/favicon/favicon-96x96.png?__ts=1744859100</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stadtbibliothek-Alzenau-Schlie%C3%9Ftage-am-15-und-16-August-2025.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7299.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stadtbibliothek-Alzenau-Schlie%C3%9Ftage-am-15-und-16-August-2025.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7299.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-08-12T17:44:25.568Z</updated>
-        <content type="html"><![CDATA[ Die Stadtbibliothek Alzenau bleibt am Freitag, 15. August 2025 (Mairä Himmelfahrt) sowie am Samstag, 16. August 2025, geschlossen.
+        <content type="html"><![CDATA[ Die Stadtbibliothek Alzenau bleibt am Freitag, 15. August 2025 (Mariä Himmelfahrt), sowie am Samstag, 16. August 2025, geschlossen.
 								
 					weiterlesen »]]></content>
     </entry>
@@ -60,20 +60,20 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zweckentfremdung von Garagen ist nicht erlaubt]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zweckentfremdung-von-Garagen-ist-nicht-erlaubt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7276.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zweckentfremdung-von-Garagen-ist-nicht-erlaubt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7276.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-30T17:46:23.255Z</updated>
-        <content type="html"><![CDATA[ Wir möchten alle Grundstückseigentümerinnen und -eigentümer erneut daran erinnern, dass Kfz-Stellplätze – insbesondere in Garagen – ausschließlich zum Abstellen von Fahrzeugen vorgesehen sind.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pilzführungen in Alzenau]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Pilzf%C3%BChrungen-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7275.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Pilzf%C3%BChrungen-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7275.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-07-30T17:46:23.250Z</updated>
         <content type="html"><![CDATA[ Die Umweltabteilung der Stadt Alzenau bietet auch dieses Jahr wieder unter fachkundiger Führung des Pilzsachverständigen Dr. Klaus Bsonek Wanderungen zum Kennenlernen unserer Pilze an.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zweckentfremdung von Garagen ist nicht erlaubt]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zweckentfremdung-von-Garagen-ist-nicht-erlaubt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7276.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zweckentfremdung-von-Garagen-ist-nicht-erlaubt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7276.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-07-30T17:46:23.255Z</updated>
+        <content type="html"><![CDATA[ Wir möchten alle Grundstückseigentümerinnen und -eigentümer erneut daran erinnern, dass Kfz-Stellplätze – insbesondere in Garagen – ausschließlich zum Abstellen von Fahrzeugen vorgesehen sind.
 								
 					weiterlesen »]]></content>
     </entry>
