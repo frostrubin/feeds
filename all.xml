@@ -2,8 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-11T05:41:21.317Z</updated>
+    <updated>2025-09-11T17:37:15.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[FAIR HANDELN - Vielfalt erleben! (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/FAIR-HANDELN-Vielfalt-erleben-.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7308.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/FAIR-HANDELN-Vielfalt-erleben-.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7308.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-09-01T17:37:30.638Z</updated>
+        <content type="html"><![CDATA[ Unter dem Motto „Fair handeln - Vielfalt erleben! lädt die Faire Woche uns alle ein, von 12. bis 26. September 2025 die Vielfalt des Fairen Handels zu entdecken. Vielfalt macht unser Leben bunt, spannend und lebenswert. Sie sichert unsere Zukunft – ob in Form biologischer Vielfalt, einer offenen Gesellschaft oder eines starken Netzwerks engagierter Menschen.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nach Teilsperrung Hauckwald wieder frei (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Teilsperrungen-im-Hauckwald-Verkehrssicherungsma%C3%9Fnahmen-an-B%C3%A4umen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7250.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Teilsperrungen-im-Hauckwald-Verkehrssicherungsma%C3%9Fnahmen-an-B%C3%A4umen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7250.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-09-11T17:37:14.824Z</updated>
+        <content type="html"><![CDATA[ Ab heute Donnerstag, 11. September 2025, ist der Alzenauer Hauckwald wieder frei zugänglich.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regierung von Unterfranken ernennt Stadt Alzenau zum Unterstützer im Team Energiewende Bayern (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Regierung-von-Unterfranken-ernennt-Stadt-Alzenau-zum-Unterst%C3%BCtzer-im-Team-Energiewende-Bayern.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7315.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Regierung-von-Unterfranken-ernennt-Stadt-Alzenau-zum-Unterst%C3%BCtzer-im-Team-Energiewende-Bayern.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7315.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-09-11T17:37:14.825Z</updated>
+        <content type="html"><![CDATA[ Durch zahlreiche Aktivitäten im Bereich Erneuerbare Energien leistet die Stadt Alzenau einen aktiven Beitrag zur Energiewende in Bayern und ist damit ein Vorreiter für alle Bürgerinnen und Bürger. Hierfür wurde die Stadt von Regierungspräsidentin Dr. Susanne Weizendörfer zum Unterstützer im Team Energiewende Bayern ernannt.
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kitaplatz- und Hortanmeldung online (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kitaplatz-und-Hortanmeldung-online.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7310.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
@@ -28,15 +55,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/14-September-2025-Segnung-der-ersten-Traube.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7306.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-09-01T17:37:30.635Z</updated>
         <content type="html"><![CDATA[ Ein besonderer Moment für die Weinbaugemeinschaft steht bevor: Am Sonntag, 14. September 2025, um 9 Uhr, wird in der Kirche St. Katharina in Wasserlos die erste Traube des neuen Weinjahrgangs 2025 im Rahmen eines festlichen Gottesdienstes gesegnet.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAIR HANDELN - Vielfalt erleben! (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/FAIR-HANDELN-Vielfalt-erleben-.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7308.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/FAIR-HANDELN-Vielfalt-erleben-.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7308.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-09-01T17:37:30.638Z</updated>
-        <content type="html"><![CDATA[ Unter dem Motto „Fair handeln - Vielfalt erleben! lädt die Faire Woche uns alle ein, von 12. bis 26. September 2025 die Vielfalt des Fairen Handels zu entdecken. Vielfalt macht unser Leben bunt, spannend und lebenswert. Sie sichert unsere Zukunft – ob in Form biologischer Vielfalt, einer offenen Gesellschaft oder eines starken Netzwerks engagierter Menschen.
 								
 					weiterlesen »]]></content>
     </entry>
@@ -68,136 +86,11 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BR Sendung »Jetzt red i« live aus Alzenau (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/BR-Sendung-Jetzt-red-i-live-aus-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7297.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/BR-Sendung-Jetzt-red-i-live-aus-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7297.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-08-12T17:44:25.575Z</updated>
-        <content type="html"><![CDATA[ Am Mittwoch, 30. Juli 2025, war die Stadt Alzenau Gastgeberin der aktuellen Ausgabe der BR-Bürgersendung „Jetzt red i“. In der Birkenhainer Halle in Albstadt diskutierten Bürgerinnen und Bürger mit politischen Gästen über die Herausforderungen und Chancen der Energiewende, insbesondere mit Blick auf den geplanten Windpark Sülzert, der grenzübergreifend zwischen Bayern und Hessen für Gesprächsstoff sorgt.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pilzführungen in Alzenau (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Pilzf%C3%BChrungen-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7275.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Pilzf%C3%BChrungen-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7275.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-30T17:46:23.250Z</updated>
-        <content type="html"><![CDATA[ Die Umweltabteilung der Stadt Alzenau bietet auch dieses Jahr wieder unter fachkundiger Führung des Pilzsachverständigen Dr. Klaus Bsonek Wanderungen zum Kennenlernen unserer Pilze an.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zweckentfremdung von Garagen ist nicht erlaubt (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zweckentfremdung-von-Garagen-ist-nicht-erlaubt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7276.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Zweckentfremdung-von-Garagen-ist-nicht-erlaubt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7276.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-07-30T17:46:23.255Z</updated>
         <content type="html"><![CDATA[ Wir möchten alle Grundstückseigentümerinnen und -eigentümer erneut daran erinnern, dass Kfz-Stellplätze – insbesondere in Garagen – ausschließlich zum Abstellen von Fahrzeugen vorgesehen sind.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hallenbad der Edith-Stein-Realschule vorübergehend geschlossen (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Hallenbad-der-Edith-Stein-Realschule-vor%C3%BCbergehend-geschlossen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7271.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Hallenbad-der-Edith-Stein-Realschule-vor%C3%BCbergehend-geschlossen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7271.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-25T17:46:41.015Z</updated>
-        <content type="html"><![CDATA[ Aufgrund technischer Probleme und notwendiger Wartungsarbeiten bleibt das Hallenbad der Edith-Stein-Realschule voraussichtlich bis einschließlich Freitag, 1. August, geschlossen.Anschließend beginnt die reguläre Schließzeit während der Sommerferien. Das Hallenbad öffnet wieder mit Beginn des neuen Schuljahres.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neues Wellpappe-Werk feiert Richtfest: Ein Bau der Superlative (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Neues-Wellpappe-Werk-feiert-Richtfest-Ein-Bau-der-Superlative.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7257.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Neues-Wellpappe-Werk-feiert-Richtfest-Ein-Bau-der-Superlative.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7257.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-17T17:45:33.482Z</updated>
-        <content type="html"><![CDATA[ Nur neun Monate nach dem Spatenstich wurde am neuen Wellpappe-Werk in der Alzenauer Industriestraße bereits Richtfest gefeiert. Ein eindrucksvolles Zeichen dafür, mit welchem Tempo und Engagement hier gebaut wird. Mit einer Investition von rund 200 Millionen Euro entsteht auf einer Fläche von 15 Hektar der größte Firmenneubau in der Geschichte Alzenaus.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Das Klinikum am Standort Alzenau als Medizinzentrum mit Zukunft (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Das-Klinikum-am-Standort-Alzenau-als-Medizinzentrum-mit-Zukunft.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7251.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Das-Klinikum-am-Standort-Alzenau-als-Medizinzentrum-mit-Zukunft.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7251.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-16T17:46:30.339Z</updated>
-        <content type="html"><![CDATA[ Wer durch den Park des Schlosses Wasserlos spaziert, ahnt kaum, was sich hinter den historischen Mauern tut: Das frühere Kreiskrankenhaus entwickelt sich rasant zu einem modernen medizinischen Zentrum – und das mitten in Alzenau. Für die Bürgerinnen und Bürger bedeutet das: Spitzenmedizin direkt vor der Haustür.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nachrücken von Andreas Sittinger (SPD) als Listennachfolger für den ausscheidenden Stadtrat Dr. Wolfgang Röder (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Nachr%C3%BCcken-von-Andreas-Sittinger-SPD-als-Listennachfolger-f%C3%BCr-den-ausscheidenden-Stadtrat-Dr-Wolfgang-R%C3%B6der.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7253.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Nachr%C3%BCcken-von-Andreas-Sittinger-SPD-als-Listennachfolger-f%C3%BCr-den-ausscheidenden-Stadtrat-Dr-Wolfgang-R%C3%B6der.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7253.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-16T17:46:30.341Z</updated>
-        <content type="html"><![CDATA[ Mit Schreiben vom 15. Mai 2025 teilte Stadtrat Dr. Wolfgang Röder (SPD) mit, sein Amt als ehrenamtliches Mitglied des Stadtrates von Alzenau zum 31. Mai 2025 niederzulegen. Gemäß der Reihenfolge der Stimmzahlen bei der Kommunalwahl vom 15. März 2020 war Herr Andreas Sittinger als Listennachfolger nach Art. 37 Abs. 1 GLKrWG für die Fraktion SPD zum Nachrücken in den Stadtrat berufen.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haupt- und Finanzausschuss tagt in der Karl-Amberg-Mittelschule Alzenau (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Haupt-und-Finanzausschuss-tagt-in-der-Karl-Amberg-Schule-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7252.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Haupt-und-Finanzausschuss-tagt-in-der-Karl-Amberg-Schule-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7252.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-16T17:46:30.342Z</updated>
-        <content type="html"><![CDATA[ Am Donnerstag, den 17. Juli 2025, findet die nächste Sitzung des Haupt- und Finanzausschusses der Stadt Alzenau statt.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lukas Heininger tritt Ehrenamt an (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Lukas-Heininger-tritt-Ehrenamt-an.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7255.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Lukas-Heininger-tritt-Ehrenamt-an.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7255.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-16T17:46:30.343Z</updated>
-        <content type="html"><![CDATA[ Grenzen wahren – das ist die jahrhundertealte Aufgabe der Feldgeschworenen, die bis heute ein wichtiger Bestandteil der kommunalen Selbstverwaltung in Bayern sind. Nun hat auch die Stadt Alzenau einen neuen Siebener in ihren Reihen: Lukas Heininger, Forsttechniker bei der Stadt Alzenau, wurde offiziell zum Feldgeschworenen bestellt.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ehrenamtsplakette in Gold für Rüdiger Sticker (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ehrenamtsplakette-in-Gold-f%C3%BCr-R%C3%BCdiger-Sticker.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7254.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ehrenamtsplakette-in-Gold-f%C3%BCr-R%C3%BCdiger-Sticker.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7254.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-16T17:46:30.344Z</updated>
-        <content type="html"><![CDATA[ Mit Ehrungen für besondere Leistungen im Ehrenamt warteten kürzlich gegen Ende des 73. Michelbacher Winzerfestes Alzenaus Bürgermeister Stephan Noll und Landrat Dr. Alexander Legler auf.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 Jahre Kolpingkapelle Alzenau: Jubiläum mit Herz, Musik und Ehrenamt (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/50-Jahre-Kolpingkapelle-Alzenau-Jubil%C3%A4um-mit-Herz-Musik-und-Ehrenamt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7259.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/50-Jahre-Kolpingkapelle-Alzenau-Jubil%C3%A4um-mit-Herz-Musik-und-Ehrenamt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7259.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-17T17:45:33.495Z</updated>
-        <content type="html"><![CDATA[ Seit einem halben Jahrhundert bereichert die Kolpingkapelle das kulturelle Leben in Alzenau. Im Mai 2025 wurde dieses stolze Jubiläum gebührend gefeiert. In einem stimmungsvollen Festakt wurde nicht nur auf die musikalische Erfolgsgeschichte der Kapelle zurückgeblickt, sondern auch die Menschen und der Verein selbst gewürdigt, die dieses Wirken möglich machen.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100+5 Jahre D'Grenzlandler (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/100-5-Jahre-D-Grenzlandler.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7258.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/100-5-Jahre-D-Grenzlandler.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7258.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-17T17:45:33.495Z</updated>
-        <content type="html"><![CDATA[ Dass gelebte Brauchtumspflege nicht altmodisch sein muss, sondern generationenübergreifend Menschen begeistert, bewiesen die D’Grenzlandler Hörstein eindrucksvoll bei ihrem nachgeholten Jubiläum: 100+5 Jahre Vereinsgeschichte wurden Ende Juni mit einem großen Festwochenende in der Räuschberghalle gefeiert.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alzenauer Wochenmarkt: Sommeröffnungszeiten ab 3. Juli 2025 (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Alzenauer-Wochenmarkt-Sommer%C3%B6ffnungszeiten-ab-3-Juli-2025.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7244.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Alzenauer-Wochenmarkt-Sommer%C3%B6ffnungszeiten-ab-3-Juli-2025.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7244.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-03T17:44:03.008Z</updated>
-        <content type="html"><![CDATA[ Der Alzenauer Wochenmarkt lädt jeden Donnerstag mit einem vielfältigen und attraktiven Angebot auf den Marktplatz ein.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ein Haus für Einsatz, Zusammenhalt und Zukunft (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ein-Haus-f%C3%BCr-Einsatz-Zusammenhalt-und-Zukunft.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7239.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ein-Haus-f%C3%BCr-Einsatz-Zusammenhalt-und-Zukunft.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7239.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-07-01T17:44:11.356Z</updated>
-        <content type="html"><![CDATA[ Ab heute, 1. Juli 2025, ist die neu fusionierte Feuerwehr Michelbach-Kälberau offiziell im Dienst. Bereits am Wochenende wurde das neue Feuerwehrhaus eingeweiht.								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wasserrohrbruch am Friedhof Albstadt (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Wasserrohrbruch-am-Friedhof-Albstadt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7236.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Wasserrohrbruch-am-Friedhof-Albstadt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7236.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-06-30T17:42:05.391Z</updated>
-        <content type="html"><![CDATA[ Aufgrund eines Wasserrohrbruchs steht derzeit kein Leitungswasser auf dem Friedhof Albstadt zur Verfügung. 
 								
 					weiterlesen »]]></content>
     </entry>
