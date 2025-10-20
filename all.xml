@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-20T05:42:47.562Z</updated>
+    <updated>2025-10-20T17:40:02.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Alzenau startet die Kommunale Wärmeplanung (Alzenau Mitteilungen)]]></title>
@@ -87,20 +87,20 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kostenfreie Kinonachmittage für Seniorinnen und Senioren (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kostenfreie-Kinonachmittage-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7325.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kostenfreie-Kinonachmittage-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7325.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-09-25T17:39:11.502Z</updated>
-        <content type="html"><![CDATA[ In der dunklen Jahreszeit möchte die Stadt Alzenau gemeinsam mit den Seniorenclubs ein besonderes Angebot für ältere Mitbürgerinnen und Mitbürger schaffen. Im Winterhalbjahr werden in allen Stadtteilen unterhaltsame Kinonachmittage veranstaltet: kostenfrei und offen für alle ab 65 Jahren.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Informationsveranstaltung: Die (ehrenamtlich) rechtliche Betreuung (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Informationsveranstaltung-Die-ehrenamtlich-rechtliche-Betreuung.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7324.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Informationsveranstaltung-Die-ehrenamtlich-rechtliche-Betreuung.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7324.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-09-25T17:39:11.500Z</updated>
         <content type="html"><![CDATA[ Am Donnerstag, 30. Oktober 2025, laden die Seniorenlotsin der Stadt Alzenau und der Betreuungsverein SKF e. V. Aschaffenburg zu einer Informationsveranstaltung zur rechtlichen Betreuung ein. 
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kostenfreie Kinonachmittage für Seniorinnen und Senioren (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kostenfreie-Kinonachmittage-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7325.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kostenfreie-Kinonachmittage-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7325.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-09-25T17:39:11.502Z</updated>
+        <content type="html"><![CDATA[ In der dunklen Jahreszeit möchte die Stadt Alzenau gemeinsam mit den Seniorenclubs ein besonderes Angebot für ältere Mitbürgerinnen und Mitbürger schaffen. Im Winterhalbjahr werden in allen Stadtteilen unterhaltsame Kinonachmittage veranstaltet: kostenfrei und offen für alle ab 65 Jahren.
 								
 					weiterlesen »]]></content>
     </entry>
