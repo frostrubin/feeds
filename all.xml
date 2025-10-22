@@ -2,8 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-22T05:43:53.763Z</updated>
+    <updated>2025-10-22T17:39:24.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Hallenbad an der Edith-Stein-Realschule wieder geöffnet (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Hallenbad-an-der-Edith-Stein-Realschule-weiterhin-geschlossen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7319.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Hallenbad-an-der-Edith-Stein-Realschule-weiterhin-geschlossen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7319.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-09-19T17:38:24.803Z</updated>
+        <content type="html"><![CDATA[ Nach der Behebung eines technischen Defekts ist das Hallenbad an der Edith-Stein-Realschule wieder geöffnet. 
+ 
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alzenau startet die Kommunale Wärmeplanung (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Alzenau-startet-die-Kommunale-W%C3%A4rmeplanung.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7364.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
@@ -28,25 +38,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Hinweis-zur-Terminvereinbarung-im-Einwohnermelde-und-Passamt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7359.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-10-09T17:41:59.609Z</updated>
         <content type="html"><![CDATA[ Aufgrund eines erhöhten Krankenstandes und personeller Engpässe bitten wir alle Bürgerinnen und Bürger, für sämtliche Anliegen im Einwohnermelde- und Passamt vorab einen Termin zu buchen.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hallenbad an der Edith-Stein-Realschule weiterhin geschlossen (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Hallenbad-an-der-Edith-Stein-Realschule-weiterhin-geschlossen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7319.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Hallenbad-an-der-Edith-Stein-Realschule-weiterhin-geschlossen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7319.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-09-19T17:38:24.803Z</updated>
-        <content type="html"><![CDATA[ Aufgrund eines technischen Defekts bleibt das Hallenbad an der Edith-Stein-Realschule bis auf Weiteres geschlossen. Die Warmbadetage an den Samstagen entfallen somit.
- 
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Herzliche Einladung an alle Alzenauer Bürgerinnen und Bürger zur Bürgerversammlung (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/B%C3%BCrgerversammlung-im-Stadtteil-Michelbach.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7354.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/B%C3%BCrgerversammlung-im-Stadtteil-Michelbach.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7354.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-10-07T17:40:41.839Z</updated>
-        <content type="html"><![CDATA[ Bürgerversammlungen stellen eine wichtige Möglichkeit zur Beteiligung der Bürgerinnen und Bürger in der Stadt dar. Ein offener Dialog und der gemeinsame Austausch mit Ihnen ist mir sehr wichtig. 
 								
 					weiterlesen »]]></content>
     </entry>
