@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-04T05:42:24.149Z</updated>
+    <updated>2025-11-04T17:42:13.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Ausländer- und Integrationsbeirat des Landkreises Aschaffenburg (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ausl%C3%A4nder-und-Integrationsbeirat-des-Landkreises-Aschaffenburg.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7386.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ausl%C3%A4nder-und-Integrationsbeirat-des-Landkreises-Aschaffenburg.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7386.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-11-04T17:42:12.465Z</updated>
+        <content type="html"><![CDATA[ Im April 2025 trat die neue Satzung des Ausländer- und Integrationsbeirats des Landkreises Aschaffenburg (AIB) in Kraft, welche der Kreistag zuvor in seiner Sitzung beschlossen hatte. Mit der Neufassung wird insbesondere die Zusammensetzung des Beirats weiter geöffnet sowie das Vertretungs-, Bewerbungs- und Nachrückverfahren verbessert. Die Neuerungen sollen zum einen den Aspekt der Integration besser umsetzen, zum anderen die Arbeit im Gremium erleichtern.
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Martinsveranstaltungen in Alzenau (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Martinsveranstaltungen-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7367.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
@@ -51,6 +60,15 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Herbstzeit ist Rücksichtnahmezeit: Gemeinsam gegen illegale Müllablagerungen (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Herbstzeit-ist-R%C3%BCcksichtnahmezeit-Gemeinsam-gegen-illegale-M%C3%BCllablagerungen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7372.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Herbstzeit-ist-R%C3%BCcksichtnahmezeit-Gemeinsam-gegen-illegale-M%C3%BCllablagerungen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7372.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-10-23T17:41:56.423Z</updated>
+        <content type="html"><![CDATA[ Mit dem Herbst kommen nicht nur bunte Blätter und kühlere Temperaturen, sondern auch mehr Nässe und Wind – Bedingungen, die das Einsammeln von Müll in Grünanlagen, Wäldern und an Wertstoffsammelplätzen deutlich erschweren. Leider nimmt gerade jetzt die Zahl der illegalen Müllablagerungen in Alzenau spürbar zu.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ihre Gastfreundschaft ist gefragt - Jubiläumswochenende zur Städtepartnerschaft (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Unterk%C3%BCnfte-gesucht-Jubil%C3%A4umswochenende-zur-St%C3%A4dtepartnerschaft.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7366.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Unterk%C3%BCnfte-gesucht-Jubil%C3%A4umswochenende-zur-St%C3%A4dtepartnerschaft.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7366.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
@@ -65,24 +83,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Trinkwasserbrunnen-und-Defibrillatoren-Ma%C3%9Fnahmen-zum-K%C3%A4lteschutz.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7371.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-10-23T17:41:56.418Z</updated>
         <content type="html"><![CDATA[ Um Kälteschäden zu vermeiden, werden im Winterhalbjahr unter anderem folgende Maßnahmen getroffen: 
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Herbstzeit ist Rücksichtnahmezeit: Gemeinsam gegen illegale Müllablagerungen (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Herbstzeit-ist-R%C3%BCcksichtnahmezeit-Gemeinsam-gegen-illegale-M%C3%BCllablagerungen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7372.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Herbstzeit-ist-R%C3%BCcksichtnahmezeit-Gemeinsam-gegen-illegale-M%C3%BCllablagerungen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7372.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-10-23T17:41:56.423Z</updated>
-        <content type="html"><![CDATA[ Mit dem Herbst kommen nicht nur bunte Blätter und kühlere Temperaturen, sondern auch mehr Nässe und Wind – Bedingungen, die das Einsammeln von Müll in Grünanlagen, Wäldern und an Wertstoffsammelplätzen deutlich erschweren. Leider nimmt gerade jetzt die Zahl der illegalen Müllablagerungen in Alzenau spürbar zu.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sanierung der historischen, denkmalgeschützten Ringmauer im Stadtteil Hörstein (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Sanierung-der-historischen-denkmalgesch%C3%BCtzten-Ringmauer-im-Stadtteil-H%C3%B6rstein.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7365.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Sanierung-der-historischen-denkmalgesch%C3%BCtzten-Ringmauer-im-Stadtteil-H%C3%B6rstein.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7365.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-10-23T17:41:56.433Z</updated>
-        <content type="html"><![CDATA[ Die Ringmauer im Stadtteil Hörstein stammt aus dem späten 16. Jahrhundert und bildet eine historische Ortsbefestigung, die in Teilen noch gut erhalten und deutlich erkennbar ist. Sie steht unter Denkmalschutz und befindet sich im Eigentum der Stadt Alzenau – allerdings beschränkt sich dieses Eigentum ausschließlich auf die Fläche der Mauer selbst. Beidseitig schließen überwiegend private Grundstücke an. In einigen Gärten stehen Nebengebäude direkt an der denkmalgeschützten Mauer und vielerorts wachsen Pflanzen entlang der Mauer und dringen in deren Struktur ein.
 								
 					weiterlesen »]]></content>
     </entry>
