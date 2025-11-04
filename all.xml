@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-03T17:42:16.094Z</updated>
+    <updated>2025-11-04T05:42:24.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Martinsveranstaltungen in Alzenau (Alzenau Mitteilungen)]]></title>
@@ -51,15 +51,6 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Herbstzeit ist Rücksichtnahmezeit: Gemeinsam gegen illegale Müllablagerungen (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Herbstzeit-ist-R%C3%BCcksichtnahmezeit-Gemeinsam-gegen-illegale-M%C3%BCllablagerungen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7372.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Herbstzeit-ist-R%C3%BCcksichtnahmezeit-Gemeinsam-gegen-illegale-M%C3%BCllablagerungen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7372.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-10-23T17:41:56.423Z</updated>
-        <content type="html"><![CDATA[ Mit dem Herbst kommen nicht nur bunte Blätter und kühlere Temperaturen, sondern auch mehr Nässe und Wind – Bedingungen, die das Einsammeln von Müll in Grünanlagen, Wäldern und an Wertstoffsammelplätzen deutlich erschweren. Leider nimmt gerade jetzt die Zahl der illegalen Müllablagerungen in Alzenau spürbar zu.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ihre Gastfreundschaft ist gefragt - Jubiläumswochenende zur Städtepartnerschaft (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Unterk%C3%BCnfte-gesucht-Jubil%C3%A4umswochenende-zur-St%C3%A4dtepartnerschaft.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7366.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Unterk%C3%BCnfte-gesucht-Jubil%C3%A4umswochenende-zur-St%C3%A4dtepartnerschaft.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7366.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
@@ -74,6 +65,15 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Trinkwasserbrunnen-und-Defibrillatoren-Ma%C3%9Fnahmen-zum-K%C3%A4lteschutz.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7371.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-10-23T17:41:56.418Z</updated>
         <content type="html"><![CDATA[ Um Kälteschäden zu vermeiden, werden im Winterhalbjahr unter anderem folgende Maßnahmen getroffen: 
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herbstzeit ist Rücksichtnahmezeit: Gemeinsam gegen illegale Müllablagerungen (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Herbstzeit-ist-R%C3%BCcksichtnahmezeit-Gemeinsam-gegen-illegale-M%C3%BCllablagerungen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7372.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Herbstzeit-ist-R%C3%BCcksichtnahmezeit-Gemeinsam-gegen-illegale-M%C3%BCllablagerungen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7372.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-10-23T17:41:56.423Z</updated>
+        <content type="html"><![CDATA[ Mit dem Herbst kommen nicht nur bunte Blätter und kühlere Temperaturen, sondern auch mehr Nässe und Wind – Bedingungen, die das Einsammeln von Müll in Grünanlagen, Wäldern und an Wertstoffsammelplätzen deutlich erschweren. Leider nimmt gerade jetzt die Zahl der illegalen Müllablagerungen in Alzenau spürbar zu.
 								
 					weiterlesen »]]></content>
     </entry>
