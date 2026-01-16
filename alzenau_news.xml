@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/</id>
     <title>Alzenau Mitteilungen</title>
-    <updated>2026-01-16T05:48:26.677Z</updated>
+    <updated>2026-01-16T17:47:46.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.alzenau.de/layout/alzenau/assets/favicon/favicon-96x96.png?__ts=1744859100</icon>
     <entry>
-        <title type="html"><![CDATA[Festspielsaison 2026: Der Ticketverkauf startet]]></title>
+        <title type="html"><![CDATA[Stromausfall - und dann? Infoflyer erhältlich]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stromausfall-und-dann-Infoflyer-erh%C3%A4ltlich.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7439.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stromausfall-und-dann-Infoflyer-erh%C3%A4ltlich.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7439.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2026-01-16T17:47:45.567Z</updated>
+        <content type="html"><![CDATA[ Energieeinsparung und Vorsorge gehen uns alle an. Auch wenn längere, großflächige Stromausfälle (Blackouts) sehr unwahrscheinlich sind - die aktuellen Ereignisse in Berlin haben gezeigt, dass es dennoch sinnvoll ist, gut für ein solches Szenario vorbereitet zu sein.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burgfestspiele 2026: Der Ticketverkauf startet]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Festspielsaison-2026-Der-Ticketverkauf-startet.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7437.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Festspielsaison-2026-Der-Ticketverkauf-startet.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7437.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2026-01-16T05:48:25.933Z</updated>
@@ -43,20 +52,20 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aktualisierung der Vereinsdaten und Veranstaltungshinweise]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktualisierung-der-Vereinsdaten-und-Veranstaltungshinweise.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7420.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktualisierung-der-Vereinsdaten-und-Veranstaltungshinweise.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7420.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-12-11T17:53:51.007Z</updated>
+        <content type="html"><![CDATA[ Die Stadt Alzenau aktualisiert derzeit die Vereinsübersicht für die neue städtische Homepage und baut einen aktuellen E-Mail-Verteiler auf.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stadtseite des Abfallkalenders wird neu gedruckt]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stadtseite-des-Abfallkalenders-wird-neu-gedruckt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7436.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stadtseite-des-Abfallkalenders-wird-neu-gedruckt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7436.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2026-01-14T17:50:58.825Z</updated>
         <content type="html"><![CDATA[ Aufgrund mehrerer Fehler wird die Seite der Stadt Alzenau des Abfallkalenders neu gedruckt. Der Nachdruck sowie die Verteilung der korrigierten Seite erfolgen zeitnah.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jahreswechsel 2025/2026: Schließung des Rathauses und weiterer städtischer Einrichtungen]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Jahreswechsel-2025-2026-Schlie%C3%9Fung-des-Rathauses-und-weiterer-st%C3%A4dtischer-Einrichtungen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7415.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Jahreswechsel-2025-2026-Schlie%C3%9Fung-des-Rathauses-und-weiterer-st%C3%A4dtischer-Einrichtungen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7415.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-12-04T17:45:48.903Z</updated>
-        <content type="html"><![CDATA[ Das Rathaus sowie die Verwaltungen der Abteilung Umwelt, Forsten, Gartenbau und in den Stadtwerken bleiben zum Jahreswechsel 2025/2026 von Mittwoch, 24. Dezember 2025, bis einschließlich Samstag, 3. Januar 2026, geschlossen. 
 								
 					weiterlesen »]]></content>
     </entry>
@@ -79,137 +88,11 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dienstjubiläen im November 2025: Dank für langjähriges Engagement]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Dank-f%C3%BCr-langj%C3%A4hriges-Engagement.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7425.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Dank-f%C3%BCr-langj%C3%A4hriges-Engagement.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7425.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-12-17T17:46:22.029Z</updated>
-        <content type="html"><![CDATA[ Im November 2025 durfte die Stadt Alzenau mehrere Mitarbeiterinnen und Mitarbeiter für ihre langjährige Treue und ihr großes Engagement im öffentlichen Dienst ehren. Die Dienstjubiläen sind ein besonderer Anlass, um Danke zu sagen für viele Jahre zuverlässiger Arbeit, Fachkompetenz und Einsatz für unsere Stadt und ihre Bürgerinnen und Bürger.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kurz vorgestellt: Kämmerin Svenja Huth]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kurz-vorgestellt-K%C3%A4mmerin-Svenja-Huth.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7424.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kurz-vorgestellt-K%C3%A4mmerin-Svenja-Huth.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7424.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-12-17T17:46:22.031Z</updated>
-        <content type="html"><![CDATA[ Seit dem 1. November 2025 hat die Stadt Alzenau eine neue Kämmerin: Svenja Huth. Die gebürtige Alzenauerin, die mittlerweile in Hörstein lebt, bringt umfangreiche Erfahrungen aus der freien Wirtschaft mit und übernimmt nun eine zentrale Schlüsselrolle in der Stadtverwaltung. 
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ehrenamtsmedaille in Bronze: Stefan Berwanger ausgezeichnet]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ehrenamtsmedaille-in-Bronze-Stefan-Berwanger-ausgezeichnet.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7426.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ehrenamtsmedaille-in-Bronze-Stefan-Berwanger-ausgezeichnet.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7426.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-12-17T17:46:22.032Z</updated>
-        <content type="html"><![CDATA[ Im Rahmen der Weihnachtsfeier des Gesangvereins „Edelweiß“ 1898 e.V. Michelbach wurde Herr Stefan Berwanger für sein langjähriges ehrenamtliches Engagement ausgezeichnet. Bürgermeister Stephan Noll überreichte ihm die Ehrenamtsmedaille in Bronze der Stadt Alzenau als Anerkennung für 20 Jahre engagierte Vorstandstätigkeit im Gesangverein.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aktualisierung der Vereinsdaten und Veranstaltungshinweise]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktualisierung-der-Vereinsdaten-und-Veranstaltungshinweise.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7420.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktualisierung-der-Vereinsdaten-und-Veranstaltungshinweise.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7420.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-12-11T17:53:51.007Z</updated>
-        <content type="html"><![CDATA[ Die Stadt Alzenau aktualisiert derzeit die Vereinsübersicht für die neue städtische Homepage und baut einen aktuellen E-Mail-Verteiler auf.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gunkelsrainstraße feierlich freigegeben]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Gunkelsrainstra%C3%9Fe-feierlich-freigegeben.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7419.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Gunkelsrainstra%C3%9Fe-feierlich-freigegeben.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7419.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-12-11T17:53:51.009Z</updated>
-        <content type="html"><![CDATA[ Nach mehr als zwei Jahren intensiver Arbeiten konnte die umfangreiche Sanierung der Gunkelsrainstraße Anfang Dezember erfolgreich abgeschlossen werden. Mit einer offiziellen Verkehrsfreigabe am Dienstag, 9. Dezember 2025, am Dietrich-Bonhoeffer-Haus feierte die Stadt Alzenau gemeinsam mit ihren Bürgerinnen und Bürgern, Planungsbeteiligten und Anliegern einen wichtigen Meilenstein für die städtische Infrastruktur.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ganztägiges Betreuungsangebot für Grundschulkinder: Ferienbetreuung 2026]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ganzt%C3%A4giges-Betreuungsangebot-f%C3%BCr-Grundschulkinder-Ferienbetreuung-2026.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7416.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ganzt%C3%A4giges-Betreuungsangebot-f%C3%BCr-Grundschulkinder-Ferienbetreuung-2026.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7416.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-12-08T17:43:37.157Z</updated>
         <content type="html"><![CDATA[ Auch im Jahr 2026 bietet die Stadt Alzenau wieder eine zuverlässige, abwechslungsreiche und ganztägige Ferienbetreuung für Alzenauer Schülerinnen und Schüler der Klassen 1 bis 4 (bis 12 Jahre) an. Das Angebot richtet sich an berufstätige Eltern ebenso wie an Familien, die ihren Kindern in den Ferien ein kreatives und spannendes Programm ermöglichen möchten.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Höchste Anerkennung der Bundesrepublik Deutschland: Bundesverdienstkreuz für Irene Treffert und Gerhard Jenemann]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/H%C3%B6chste-Anerkennung-der-Bundesrepublik-Deutschland-Bundesverdienstkreuz-f%C3%BCr-Irene-Treffert-und-Gerhard-Jenemann.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7413.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/H%C3%B6chste-Anerkennung-der-Bundesrepublik-Deutschland-Bundesverdienstkreuz-f%C3%BCr-Irene-Treffert-und-Gerhard-Jenemann.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7413.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-12-04T17:45:48.904Z</updated>
-        <content type="html"><![CDATA[ Zwei engagierte Persönlichkeiten aus Alzenau wurden am 17. November 2025 im Ridingersaal des Schlosses Johannisburg in Aschaffenburg mit einer besonderen Ehrung ausgezeichnet: Frau Staatsministerin Judith Gerlach, MdL, überreichte Irene Treffert und Gerhard Jenemann das Verdienstkreuz am Bande des Verdienstordens der Bundesrepublik Deutschland.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alzenauer Weihnachtsmarkt vom 28. bis 30. November 2025]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Weihnachtsmarkt-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7407.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Weihnachtsmarkt-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7407.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-11-24T17:42:26.800Z</updated>
-        <content type="html"><![CDATA[ Alzenau lädt zum stimmungsvollen Start in die Adventszeit
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stadt Alzenau ehrt Gottfried Kärner]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stadt-Alzenau-ehrt-Gottfried-K%C3%A4rner.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7405.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stadt-Alzenau-ehrt-Gottfried-K%C3%A4rner.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7405.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-11-19T17:39:27.836Z</updated>
-        <content type="html"><![CDATA[ Ein außergewöhnliches Jubiläum wurde kürzlich im Stadtteil Michelbach gefeiert: Seit 40 Jahren steht Gottfried Kärner als Dirigent an der Spitze des Gesangvereins Edelweiß Michelbach – Grund genug für den Verein, dieses besondere Ereignis mit einem festlichen Konzert zu würdigen.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Illegale Ablagerungen von Photovoltaikmodulen]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Illegale-Ablagerungen-von-Photovoltaikmodulen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7397.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Illegale-Ablagerungen-von-Photovoltaikmodulen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7397.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-11-12T17:41:22.383Z</updated>
-        <content type="html"><![CDATA[ An mehreren Stellen im Landkreis wurden in der vergangenen Woche größere Mengen an Photovoltaikmodulen illegal abgelagert. Neben zwei Fundstellen in Geiselbach und an der Kreisstraße AB 18 wurden auch im angrenzenden hessischen Freigericht ebenfalls solche Module in der Umwelt gefunden. Da es sich bei den Modulen um das gleiche Modell vom selben Hersteller handelt, wird vermutet, dass diese von einer größeren Baustelle aus der Umgebung stammen könnten. 
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rathaus von Narren gestürmt]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Rathaus-von-Narren-gest%C3%BCrmt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7403.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Rathaus-von-Narren-gest%C3%BCrmt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7403.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-11-19T17:39:27.841Z</updated>
-        <content type="html"><![CDATA[ Angeührt von dem neuen Wasserloser Prinzenpaar Nicole I. und Steffen I. forderten zahlreiche Närrinnen und Narren am Dienstag, 11. November 2025, pünktlich um 11.11 Uhr Einlass in das Alzenauer Rathaus. Mit dabei war auch das neue Kinderprinzenpaar Fabrizia I. und Remy I.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wasser auf Friedhöfen wird abgestellt]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Wasser-auf-Friedh%C3%B6fen-wird-abgestellt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7396.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Wasser-auf-Friedh%C3%B6fen-wird-abgestellt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7396.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-11-10T17:39:07.678Z</updated>
-        <content type="html"><![CDATA[ Ab heute Montag, 10. November 2025, wird auf allen Friedhöfen im Stadtgebiet Alzenau das Wasser abgestellt. Diese Maßnahme ist notwendig, um Leitungen und Anschlüsse vor möglichen Frostschäden zu schützen.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vogelgrippe bei Wildvögeln in Stadt und Landkreis]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Vogelgrippe-bei-Wildv%C3%B6geln-in-Stadt-und-Landkreis.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7395.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Vogelgrippe-bei-Wildv%C3%B6geln-in-Stadt-und-Landkreis.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7395.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-11-10T17:39:07.679Z</updated>
-        <content type="html"><![CDATA[ Die Aviäre Influenza - auch Vogelgrippe oder Geflügelpest genannt - wurde bei zwei Wildvögeln in der Stadt sowie auch im Landkreis Aschaffenburg festgestellt. Bei den beiden Kranichen waren die vom Landesamt für Gesundheit und Lebensmittelsicherheit - kurz LGL - durchgeführten Tests auf den Subtyp H5N1 positiv. Zu dem in der Stadt aufgefundenen Tier liegt seit gestern auch die amtliche Bestätigung des Ergebnisses durch das Friedrich-Löffler-Institut - kurz LFI - vor. Bei dem in Hörstein gefundenen Kranich steht diese amtliche Bestätigung durch das nationale Referenzlabor noch aus.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frischer Wind für unsere Zukunft: Warum der Windpark Sülzert unsere Region stärkt]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Frischer-Wind-f%C3%BCr-unsere-Zukunft-Warum-der-Windpark-S%C3%BClzert-unsere-Region-st%C3%A4rkt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7394.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Frischer-Wind-f%C3%BCr-unsere-Zukunft-Warum-der-Windpark-S%C3%BClzert-unsere-Region-st%C3%A4rkt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7394.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-11-06T17:42:02.393Z</updated>
-        <content type="html"><![CDATA[ Die Stadt Alzenau und die Gemeinde Freigericht planen einen länderübergreifenden Windpark mit voraussichtlich acht Anlagen. Der Windpark Sülzert soll zu Teilen im Eigentum der Kommunen verbleiben. Auch eine breite Beteiligung der Bürgerschaft wird angestrebt. So verdienen viele Menschen in der Region an dem Projekt mit. 
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transparenz zum Nachlesen: Jahresberichte der Stadt Alzenau]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Transparenz-zum-Nachlesen-Jahresberichte-der-Stadt-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7393.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Transparenz-zum-Nachlesen-Jahresberichte-der-Stadt-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7393.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-11-06T17:42:02.393Z</updated>
-        <content type="html"><![CDATA[ Wie entwickelt sich unsere Stadt? Welche Projekte wurden umgesetzt, welche Themen standen im Mittelpunkt der Verwaltung?
 								
 					weiterlesen »]]></content>
     </entry>
@@ -223,11 +106,21 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wichtige Info an alle Haushalte]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Wichtige-Info-an-alle-Haushalte.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7392.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Wichtige-Info-an-alle-Haushalte.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7392.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-11-05T17:40:22.064Z</updated>
-        <content type="html"><![CDATA[ Ablesung der Wasserzähler, Strom und Erdgas startet								
+        <title type="html"><![CDATA[Ausländer- und Integrationsbeirat des Landkreises Aschaffenburg]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ausl%C3%A4nder-und-Integrationsbeirat-des-Landkreises-Aschaffenburg.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7386.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ausl%C3%A4nder-und-Integrationsbeirat-des-Landkreises-Aschaffenburg.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7386.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2026-01-16T17:47:45.592Z</updated>
+        <content type="html"><![CDATA[ Im April 2025 trat die neue Satzung des Ausländer- und Integrationsbeirats des Landkreises Aschaffenburg (AIB) in Kraft, welche der Kreistag zuvor in seiner Sitzung beschlossen hatte. Mit der Neufassung wird insbesondere die Zusammensetzung des Beirats weiter geöffnet sowie das Vertretungs-, Bewerbungs- und Nachrückverfahren verbessert. Die Neuerungen sollen zum einen den Aspekt der Integration besser umsetzen, zum anderen die Arbeit im Gremium erleichtern.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Info-Abend in der Kita »Zauberwald«: Warum Fehler zum Lernen gehören]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Info-Abend-in-der-Kita-Zauberwald-Warum-Fehler-zum-Lernen-geh%C3%B6ren.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7390.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Info-Abend-in-der-Kita-Zauberwald-Warum-Fehler-zum-Lernen-geh%C3%B6ren.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7390.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2026-01-16T17:47:45.593Z</updated>
+        <content type="html"><![CDATA[ „Warum Fehler zum Lernen gehören“ lautete der Titel des Info-Abends, zu dem die Städtische Kindertagesstätte „Zauberwald“ eingeladen hatte.
+								
 					weiterlesen »]]></content>
     </entry>
 </feed>
