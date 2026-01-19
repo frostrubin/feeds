@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-19T05:54:23.589Z</updated>
+    <updated>2026-01-19T17:47:55.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Wichtig: Aktualisierung der Vereinsdaten und Veranstaltungshinweise (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktualisierung-der-Vereinsdaten-und-Veranstaltungshinweise.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7420.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktualisierung-der-Vereinsdaten-und-Veranstaltungshinweise.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7420.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2025-12-11T17:53:51.007Z</updated>
+        <content type="html"><![CDATA[ Die Stadt Alzenau aktualisiert derzeit die Vereinsübersicht für die neue städtische Homepage und baut einen aktuellen E-Mail-Verteiler auf. Bitte tragen Sie sich ein, damit Sie auch künftig im städtischen Verzeichnis hinterlegt sind.
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stromausfall - und dann? Infoflyer erhältlich (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stromausfall-und-dann-Infoflyer-erh%C3%A4ltlich.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7439.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
@@ -47,15 +56,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ausstellung-Naturg%C3%A4rten-entdecken-in-der-Stadtbibliothek-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7430.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2026-01-08T17:51:04.953Z</updated>
         <content type="html"><![CDATA[ Vom 10. Februar 2026 bis 7. März 2026 lädt die Stadtbibliothek Alzenau zur Ausstellung „Naturgärten entdecken“ ein. Die Ausstellung widmet sich der naturnahen Gartengestaltung und zeigt, wie Gärten zu wertvollen Lebensräumen für Pflanzen, Insekten und Tiere werden können.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aktualisierung der Vereinsdaten und Veranstaltungshinweise (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktualisierung-der-Vereinsdaten-und-Veranstaltungshinweise.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7420.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktualisierung-der-Vereinsdaten-und-Veranstaltungshinweise.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7420.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2025-12-11T17:53:51.007Z</updated>
-        <content type="html"><![CDATA[ Die Stadt Alzenau aktualisiert derzeit die Vereinsübersicht für die neue städtische Homepage und baut einen aktuellen E-Mail-Verteiler auf.
 								
 					weiterlesen »]]></content>
     </entry>
