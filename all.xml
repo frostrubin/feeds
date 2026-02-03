@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-02T18:04:12.585Z</updated>
+    <updated>2026-02-03T06:10:42.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Bürgersprechstunde mit Bürgermeister Stephan Noll (Alzenau Mitteilungen)]]></title>
@@ -19,15 +19,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Rasen-und-Kunstrasenpl%C3%A4tze-gesperrt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7444.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2026-01-28T17:56:07.063Z</updated>
         <content type="html"><![CDATA[ Die Rasen- und Kunstrasenplätze in Albstadt, Kälberau, Michelbach, Alzenau und Hörstein bleiben aufgrund der anhaltenden Schneedecke sowie der für die kommenden Tage gemeldeten Niederschläge, Schneefälle und Glätte voraussichtlich bis Sonntag, 1. Februar 2026, für den gesamten Spiel- und Trainingsbetrieb gesperrt.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aktion »Sauberer Landkreis« am 21. März 2026 (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktion-Sauberer-Landkreis-am-21-M%C3%A4rz-2026.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7448.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktion-Sauberer-Landkreis-am-21-M%C3%A4rz-2026.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7448.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2026-01-28T17:56:07.077Z</updated>
-        <content type="html"><![CDATA[ Der Landkreis Aschaffenburg hat auch in diesem Jahr wieder zur Aktion „Sauberer Landkreis“ am Samstag, 21. März 2026, aufgerufen. Bereits seit 1996 nimmt die Stadt Alzenau daran teil. Eingeladen sind auch in diesem Jahr wieder alle Bürgerinnen und Bürger, sich an der Aktion zu beteiligen.
 								
 					weiterlesen »]]></content>
     </entry>
@@ -56,6 +47,15 @@ Nachfolgend finden Sie eine Übersicht der Faschingsveranstaltungen im Stadtgebi
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Schlie%C3%9Fzeiten-st%C3%A4dtischer-Einrichtungen-in-der-Faschingswoche.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7447.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2026-01-28T17:56:07.067Z</updated>
         <content type="html"><![CDATA[ Am Faschingsdienstag, 17. Februar 2026, schließen das Rathaus der Stadt Alzenau und der städtische Bauhof bereits um 12 Uhr.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aktion »Sauberer Landkreis« am 21. März 2026 (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktion-Sauberer-Landkreis-am-21-M%C3%A4rz-2026.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7448.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktion-Sauberer-Landkreis-am-21-M%C3%A4rz-2026.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7448.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2026-01-28T17:56:07.077Z</updated>
+        <content type="html"><![CDATA[ Der Landkreis Aschaffenburg hat auch in diesem Jahr wieder zur Aktion „Sauberer Landkreis“ am Samstag, 21. März 2026, aufgerufen. Bereits seit 1996 nimmt die Stadt Alzenau daran teil. Eingeladen sind auch in diesem Jahr wieder alle Bürgerinnen und Bürger, sich an der Aktion zu beteiligen.
 								
 					weiterlesen »]]></content>
     </entry>
