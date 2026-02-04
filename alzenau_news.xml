@@ -2,34 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/</id>
     <title>Alzenau Mitteilungen</title>
-    <updated>2026-02-04T06:08:33.052Z</updated>
+    <updated>2026-02-04T18:08:11.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.alzenau.de/layout/alzenau/assets/favicon/favicon-96x96.png?__ts=1744859100</icon>
-    <entry>
-        <title type="html"><![CDATA[Bürgersprechstunde mit Bürgermeister Stephan Noll]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/B%C3%BCrgersprechstunde-mit-B%C3%BCrgermeister-Stephan-Noll.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7125.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/B%C3%BCrgersprechstunde-mit-B%C3%BCrgermeister-Stephan-Noll.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7125.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2026-02-02T18:04:11.782Z</updated>
-        <content type="html"><![CDATA[ Nächster Termin: Dienstag, 3. Februar 2026, 15 bis 17 Uhr
-								
-					weiterlesen »]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Rasen- und Kunstrasenplätze gesperrt]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Rasen-und-Kunstrasenpl%C3%A4tze-gesperrt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7444.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Rasen-und-Kunstrasenpl%C3%A4tze-gesperrt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7444.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2026-01-28T17:56:07.063Z</updated>
         <content type="html"><![CDATA[ Die Rasen- und Kunstrasenplätze in Albstadt, Kälberau, Michelbach, Alzenau und Hörstein bleiben aufgrund der anhaltenden Schneedecke sowie der für die kommenden Tage gemeldeten Niederschläge, Schneefälle und Glätte voraussichtlich bis Sonntag, 1. Februar 2026, für den gesamten Spiel- und Trainingsbetrieb gesperrt.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faschingsveranstaltungen im Stadtgebiet]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Faschingsveranstaltungen-im-Stadtgebiet.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7445.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Faschingsveranstaltungen-im-Stadtgebiet.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7445.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2026-01-28T17:56:07.064Z</updated>
-        <content type="html"><![CDATA[ Bald hält die närrische Zeit wieder Einzug und bringt Farbe, Lachen und Tradition in unseren Alltag.
-Nachfolgend finden Sie eine Übersicht der Faschingsveranstaltungen im Stadtgebiet, die von den Veranstaltern auf unserer Homepage eingetragen wurden: vom Kinderfasching über bunt kostümiertes Abendprogramm bis hin zum traditionellen Umzug am Faschingsdienstag durch den Stadtteil Wasserlos. 
 								
 					weiterlesen »]]></content>
     </entry>
@@ -57,6 +38,16 @@ Nachfolgend finden Sie eine Übersicht der Faschingsveranstaltungen im Stadtgebi
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktion-Sauberer-Landkreis-am-21-M%C3%A4rz-2026.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7448.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2026-01-28T17:56:07.077Z</updated>
         <content type="html"><![CDATA[ Der Landkreis Aschaffenburg hat auch in diesem Jahr wieder zur Aktion „Sauberer Landkreis“ am Samstag, 21. März 2026, aufgerufen. Bereits seit 1996 nimmt die Stadt Alzenau daran teil. Eingeladen sind auch in diesem Jahr wieder alle Bürgerinnen und Bürger, sich an der Aktion zu beteiligen.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faschingsveranstaltungen im Stadtgebiet]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Faschingsveranstaltungen-im-Stadtgebiet.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7445.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Faschingsveranstaltungen-im-Stadtgebiet.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7445.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2026-01-28T17:56:07.064Z</updated>
+        <content type="html"><![CDATA[ Bald hält die närrische Zeit wieder Einzug und bringt Farbe, Lachen und Tradition in unseren Alltag.
+Nachfolgend finden Sie eine Übersicht der Faschingsveranstaltungen im Stadtgebiet, die von den Veranstaltern auf unserer Homepage eingetragen wurden: vom Kinderfasching über bunt kostümiertes Abendprogramm bis hin zum traditionellen Umzug am Faschingsdienstag durch den Stadtteil Wasserlos. 
 								
 					weiterlesen »]]></content>
     </entry>
