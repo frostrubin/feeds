@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-05T06:06:56.898Z</updated>
+    <updated>2026-03-05T18:57:36.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Probealarm zur Warnung der Bevölkerung (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Probealarm-zur-Warnung-der-Bev%C3%B6lkerung.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7459.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Probealarm-zur-Warnung-der-Bev%C3%B6lkerung.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7459.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2026-03-05T18:57:36.169Z</updated>
+        <content type="html"><![CDATA[ Zur Überprüfung der Funktionsfähigkeit und zur Information der Bevölkerung wird am Donnerstag, 12. März 2026 um 11 Uhr eine Probealarmierung durchgeführt. Hierfür werden die Sirenen mit dem Sirenensignal „Warnung der Bevölkerung“ - einem einminütigen Heulton - ausgelöst. Beim Ertönen des Heultons ist das Radio einzuschalten und auf Durchsagen zu achten.
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geflügelpest bei Wildvogel nachgewiesen (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Gefl%C3%BCgelpest-bei-Wildvogel-nachgewiesen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7458.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
