@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-21T07:11:13.867Z</updated>
+    <updated>2026-04-21T18:38:40.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Kurzfristige Sperrung der Weibersbach-Brücke unterhalb des Schlösschens Michelbach (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kurzfristige-Sperrung-der-Weibersbach-Br%C3%BCcke-unterhalb-des-Schl%C3%B6sschens-Michelbach.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7497.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kurzfristige-Sperrung-der-Weibersbach-Br%C3%BCcke-unterhalb-des-Schl%C3%B6sschens-Michelbach.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7497.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
+        <updated>2026-04-21T18:38:39.483Z</updated>
+        <content type="html"><![CDATA[ Die Weibersbach-Brücke unterhalb des Schlösschens Michelbach musste kurzfristig gesperrt werden. Bei einer aktuellen Überprüfung wurde festgestellt, dass die Brücke derzeit nicht mehr sicher genutzt werden kann. 
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lange Lernabende in der Stadtbibliothek (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Lange-Lernabende-in-der-Stadtbibliothek.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7493.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
@@ -216,15 +225,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktualisierung-der-Vereinsdaten-und-Veranstaltungshinweise.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7420.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
         <updated>2025-12-11T17:53:51.007Z</updated>
         <content type="html"><![CDATA[ Die Stadt Alzenau aktualisiert derzeit die Vereinsübersicht für die neue städtische Homepage und baut einen aktuellen E-Mail-Verteiler auf. Bitte tragen Sie sich ein, damit Sie auch künftig im städtischen Verzeichnis hinterlegt sind.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stromausfall - und dann? Infoflyer erhältlich (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stromausfall-und-dann-Infoflyer-erh%C3%A4ltlich.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7439.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Stromausfall-und-dann-Infoflyer-erh%C3%A4ltlich.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7439.1&amp;NavID=2413.44&amp;La=1&amp;startkat=1.218"/>
-        <updated>2026-01-16T17:47:45.567Z</updated>
-        <content type="html"><![CDATA[ Energieeinsparung und Vorsorge gehen uns alle an. Auch wenn längere, großflächige Stromausfälle (Blackouts) sehr unwahrscheinlich sind - die aktuellen Ereignisse in Berlin haben gezeigt, dass es dennoch sinnvoll ist, gut für ein solches Szenario vorbereitet zu sein.
 								
 					weiterlesen »]]></content>
     </entry>
