@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/</id>
     <title>Alzenau Mitteilungen</title>
-    <updated>2026-06-07T08:34:42.025Z</updated>
+    <updated>2026-06-07T18:47:35.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.alzenau.de/layout/alzenau/assets/favicon/favicon-96x96.png?__ts=1744859100</icon>
     <entry>
@@ -24,15 +24,6 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spatenstich für das Neubaugebiet "Im Schild" im Stadtteil Hörstein]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Spatenstich-f%C3%BCr-das-Neubaugebiet-Im-Schild-im-Stadtteil-H%C3%B6rstein.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7516.1&amp;NavID=2413.44&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Spatenstich-f%C3%BCr-das-Neubaugebiet-Im-Schild-im-Stadtteil-H%C3%B6rstein.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7516.1&amp;NavID=2413.44&amp;startkat=1.218"/>
-        <updated>2026-06-01T21:10:40.365Z</updated>
-        <content type="html"><![CDATA[ Am Mittwoch, 20. Mai 2026, fand der offizielle Spatenstich für das Neubaugebiet „Im Schild“ statt. Gemeinsam mit den bauausführenden Firmen gab Bürgermeister Stephan Noll den symbolischen Startschuss für die Erschließungsarbeiten.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kahlgrundbahn: Bauarbeiten in den Pfingstferien]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kahlgrundbahn-Bauarbeiten-in-den-Pfingstferien.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7517.1&amp;NavID=2413.44&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kahlgrundbahn-Bauarbeiten-in-den-Pfingstferien.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7517.1&amp;NavID=2413.44&amp;startkat=1.218"/>
@@ -47,6 +38,15 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Er%C3%B6ffnung-des-neuen-Biotop-Rundwegs-am-Speichenbach.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7518.1&amp;NavID=2413.44&amp;startkat=1.218"/>
         <updated>2026-06-01T21:10:40.375Z</updated>
         <content type="html"><![CDATA[ Am Sonntag, 14. Juni 2026, wird der neue Biotop-Rundweg am Speichenbach bei Kälberau offiziell eröffnet. Besucherinnen und Besucher erwartet ab 9.30 Uhr ein abwechslungsreicher Tag rund um Natur, Artenvielfalt und Umweltbildung.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatenstich für das Neubaugebiet "Im Schild" im Stadtteil Hörstein]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Spatenstich-f%C3%BCr-das-Neubaugebiet-Im-Schild-im-Stadtteil-H%C3%B6rstein.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7516.1&amp;NavID=2413.44&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Spatenstich-f%C3%BCr-das-Neubaugebiet-Im-Schild-im-Stadtteil-H%C3%B6rstein.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7516.1&amp;NavID=2413.44&amp;startkat=1.218"/>
+        <updated>2026-06-01T21:10:40.365Z</updated>
+        <content type="html"><![CDATA[ Am Mittwoch, 20. Mai 2026, fand der offizielle Spatenstich für das Neubaugebiet „Im Schild“ statt. Gemeinsam mit den bauausführenden Firmen gab Bürgermeister Stephan Noll den symbolischen Startschuss für die Erschließungsarbeiten.
 								
 					weiterlesen »]]></content>
     </entry>
