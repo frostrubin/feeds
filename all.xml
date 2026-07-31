@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-07-31T08:15:37.897Z</updated>
+    <updated>2026-07-31T18:52:38.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Müllabfuhr bereits ab 5 Uhr (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/M%C3%BCllabfuhr-bereits-ab-5-Uhr.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7849.1&amp;NavID=2413.44&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/M%C3%BCllabfuhr-bereits-ab-5-Uhr.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7849.1&amp;NavID=2413.44&amp;startkat=1.218"/>
+        <updated>2026-07-29T18:31:36.453Z</updated>
+        <content type="html"><![CDATA[ Auf Grund der akuten Hitzewarnung des Deutschen Wetterdiensts DWD verlängert das Landratsamt Aschaffenburg die Vorverlegung der Abfuhrzeiten für die Mülltonnen in seiner Zuständigkeit. Die Tonnen für Altpapier sowie Bio- und Restmüll werden bis einschließlich Freitag, 7. August 2026, bereits ab 5 Uhr morgens geleert. Im Normalfall müssen Mülltonnen erst um 6 Uhr bereit stehen.
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geänderte Öffnungszeiten während des Alzenauer Stadtfestes (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ge%C3%A4nderte-%C3%96ffnungszeiten-w%C3%A4hrend-des-Alzenauer-Stadtfestes.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7851.1&amp;NavID=2413.44&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ge%C3%A4nderte-%C3%96ffnungszeiten-w%C3%A4hrend-des-Alzenauer-Stadtfestes.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7851.1&amp;NavID=2413.44&amp;startkat=1.218"/>
         <updated>2026-07-31T08:15:37.323Z</updated>
         <content type="html"><![CDATA[ Aufgrund des Alzenauer Stadtfestes bleibt die Stadtbibliothek Alzenau von Freitag, 7. August 2026, bis einschließlich Montag, 10. August 2026, geschlossen.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Müllabfuhr bereits ab 5 Uhr (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/M%C3%BCllabfuhr-bereits-ab-5-Uhr.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7849.1&amp;NavID=2413.44&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/M%C3%BCllabfuhr-bereits-ab-5-Uhr.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7849.1&amp;NavID=2413.44&amp;startkat=1.218"/>
-        <updated>2026-07-29T18:31:36.453Z</updated>
-        <content type="html"><![CDATA[ Auf Grund der akuten Hitzewarnung des Deutschen Wetterdiensts DWD passt das Landratsamt Aschaffenburg die Abfuhrzeiten für die Mülltonnen in seiner Zuständigkeit an. 
 								
 					weiterlesen »]]></content>
     </entry>
