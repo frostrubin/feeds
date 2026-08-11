@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-08-11T06:13:40.536Z</updated>
+    <updated>2026-08-11T18:23:59.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Steuerbescheide werden verschickt (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Steuerbescheide-werden-verschickt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7856.1&amp;NavID=2413.44&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Steuerbescheide-werden-verschickt.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7856.1&amp;NavID=2413.44&amp;startkat=1.218"/>
+        <updated>2026-08-11T18:23:58.554Z</updated>
+        <content type="html"><![CDATA[ In der Kalenderwoche 34 verschickt die Stadt Alzenau die geänderten Grund- und Gewerbesteuerbescheide.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aufgrund der anhaltenden Trockenheit: Bitte keine Kerzen auf den Friedhöfen anzünden (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aufgrund-der-anhaltenden-Trockenheit-Bitte-keine-Kerzen-auf-den-Friedh%C3%B6fen-anz%C3%BCnden.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7855.1&amp;NavID=2413.44&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aufgrund-der-anhaltenden-Trockenheit-Bitte-keine-Kerzen-auf-den-Friedh%C3%B6fen-anz%C3%BCnden.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7855.1&amp;NavID=2413.44&amp;startkat=1.218"/>
+        <updated>2026-08-11T18:23:58.561Z</updated>
+        <content type="html"><![CDATA[ Aufgrund der anhaltenden Trockenheit und der damit verbundenen erhöhten Brandgefahr bittet die Stadt Alzenau derzeit darum, auf das Aufstellen und Anzünden von Kerzen auf den Friedhöfen vollständig zu verzichten.
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aktuelle Information: Geruchsbelästigung durch Waldbrand (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Aktuelle-Information-Geruchsbel%C3%A4stigung-durch-Waldbrand.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7854.1&amp;NavID=2413.44&amp;startkat=1.218</id>
@@ -207,24 +225,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Konstituierende-Sitzung-des-Stadtrates-am-12-Mai-2026.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7523.1&amp;NavID=2413.44&amp;startkat=1.218"/>
         <updated>2026-07-29T18:31:36.489Z</updated>
         <content type="html"><![CDATA[ Am Dienstag, 12. Mai 2026, wurden in der konstituierenden Sitzung des Stadtrates die neuen Stadträtinnen und Stadträte vereidigt. 								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gelbe Säcke wieder verfügbar (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Gelbe-S%C3%A4cke-wieder-verf%C3%BCgbar.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7513.1&amp;NavID=2413.44&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Gelbe-S%C3%A4cke-wieder-verf%C3%BCgbar.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7513.1&amp;NavID=2413.44&amp;startkat=1.218"/>
-        <updated>2026-07-29T18:31:36.490Z</updated>
-        <content type="html"><![CDATA[ Gute Nachrichten für die Bürgerinnen und Bürger in Alzenau: Seit 11. Mai 2026 sind die Ausgabestellen im Stadtgebiet wieder mit ausreichend gelben Säcken beliefert. Damit entspannt sich die Situation nach den zuletzt häufigen Engpässen bei der Verteilung.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bäder der Stadt Alzenau: Saison startet am 10. Mai 2026 (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/B%C3%A4der-der-Stadt-Alzenau-Saison-startet-am-10-Mai-2026.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7511.1&amp;NavID=2413.44&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/B%C3%A4der-der-Stadt-Alzenau-Saison-startet-am-10-Mai-2026.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7511.1&amp;NavID=2413.44&amp;startkat=1.218"/>
-        <updated>2026-07-29T18:31:36.491Z</updated>
-        <content type="html"><![CDATA[ Am Sonntag, 10. Mai 2026, öffnen das Waldschwimmbad und die Freizeit- und Erholungsanlage Meerhofsee ihre Tore. Die wichtigsten Infos zum Saisonstart haben wir hier für Sie zusammengefasst:
-								
 					weiterlesen »]]></content>
     </entry>
 </feed>
