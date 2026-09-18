@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/</id>
     <title>Alzenau Mitteilungen</title>
-    <updated>2026-09-18T09:58:20.014Z</updated>
+    <updated>2026-09-18T19:51:45.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.alzenau.de/layout/alzenau/assets/favicon/favicon-96x96.png?__ts=1744859100</icon>
     <entry>
@@ -41,20 +41,20 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verpachtung der Gaststätte "Alte Post" Alzenau]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Verpachtung-der-Gastst%C3%A4tte-Alte-Post-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7876.1&amp;NavID=2413.44&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Verpachtung-der-Gastst%C3%A4tte-Alte-Post-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7876.1&amp;NavID=2413.44&amp;startkat=1.218"/>
-        <updated>2026-09-08T20:04:48.943Z</updated>
-        <content type="html"><![CDATA[ Im Herzen von Alzenau, zentral am Marktplatz gelegen, befindet sich in einem 2010 eröffneten Neubau die Gaststätte „Alte Post“.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Infoveranstaltung: Die (ehrenamtlich) rechtliche Betreuung]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Infoveranstaltung-Die-ehrenamtlich-rechtliche-Betreuung.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7879.1&amp;NavID=2413.44&amp;startkat=1.218</id>
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Infoveranstaltung-Die-ehrenamtlich-rechtliche-Betreuung.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7879.1&amp;NavID=2413.44&amp;startkat=1.218"/>
         <updated>2026-09-08T20:04:48.943Z</updated>
         <content type="html"><![CDATA[ Am Donnerstag, 19. Oktober 2026, um 19 Uhr laden die Seniorenlotsin der Stadt Alzenau und der Betreuungsverein SKF e. V. Aschaffenburg zur Informationsveranstaltung zur rechtlichen Betreuung in die Alte Post Alzenau ein.
+								
+					weiterlesen »]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verpachtung der Gaststätte "Alte Post" Alzenau]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Verpachtung-der-Gastst%C3%A4tte-Alte-Post-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7876.1&amp;NavID=2413.44&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Verpachtung-der-Gastst%C3%A4tte-Alte-Post-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7876.1&amp;NavID=2413.44&amp;startkat=1.218"/>
+        <updated>2026-09-08T20:04:48.943Z</updated>
+        <content type="html"><![CDATA[ Im Herzen von Alzenau, zentral am Marktplatz gelegen, befindet sich in einem 2010 eröffneten Neubau die Gaststätte „Alte Post“.
 								
 					weiterlesen »]]></content>
     </entry>
