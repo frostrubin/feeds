@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-09-25T10:24:27.972Z</updated>
+    <updated>2026-09-25T20:38:06.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Kulinarische Vielfalt seit 40 Jahren: Wochenmarkt in Alzenau (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kulinarische-Vielfalt-seit-40-Jahren-Wochenmarkt-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7898.1&amp;NavID=2413.44&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kulinarische-Vielfalt-seit-40-Jahren-Wochenmarkt-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7898.1&amp;NavID=2413.44&amp;startkat=1.218"/>
+        <updated>2026-09-23T10:12:14.304Z</updated>
+        <content type="html"><![CDATA[ Seit 40 Jahren gehört der Wochenmarkt zum Alzenauer Stadtbild. Jeden Donnerstag bieten die Marktbeschickerinnen und Marktbeschicker ihre Waren an und sorgen mit ihrem vielfältigen Angebot für Frische, Qualität und persönliche Begegnungen mitten in der Stadt.
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angebot für Seniorinnen und Senioren: Kostenfreie Kinonachmittage (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Angebot-f%C3%BCr-Seniorinnen-und-Senioren-Kostenfreie-Kinonachmittage.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7899.1&amp;NavID=2413.44&amp;startkat=1.218</id>
@@ -23,11 +32,11 @@
 					weiterlesen »]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kulinarische Vielfalt seit 40 Jahren: Wochenmarkt in Alzenau (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kulinarische-Vielfalt-seit-40-Jahren-Wochenmarkt-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7898.1&amp;NavID=2413.44&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Kulinarische-Vielfalt-seit-40-Jahren-Wochenmarkt-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7898.1&amp;NavID=2413.44&amp;startkat=1.218"/>
-        <updated>2026-09-23T10:12:14.304Z</updated>
-        <content type="html"><![CDATA[ Seit 40 Jahren gehört der Wochenmarkt zum Alzenauer Stadtbild. Jeden Donnerstag bieten die Marktbeschickerinnen und Marktbeschicker ihre Waren an und sorgen mit ihrem vielfältigen Angebot für Frische, Qualität und persönliche Begegnungen mitten in der Stadt.
+        <title type="html"><![CDATA[Ehrenamtsplakette in Silber für Irene Scharwies (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ehrenamtsplakette-in-Silber-f%C3%BCr-Irene-Scharwies.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7897.1&amp;NavID=2413.44&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ehrenamtsplakette-in-Silber-f%C3%BCr-Irene-Scharwies.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7897.1&amp;NavID=2413.44&amp;startkat=1.218"/>
+        <updated>2026-09-23T10:12:14.310Z</updated>
+        <content type="html"><![CDATA[ Seit 25 Jahren steht Irene Scharwies an der Spitze der Arbeitsgemeinschaft Alzenau der Deutschen Rheuma-Liga Bayern. Für dieses außergewöhnliche ehrenamtliche Engagement wurde sie jetzt mit der Ehrenamtsplakette der Stadt Alzenau in Silber ausgezeichnet.
 								
 					weiterlesen »]]></content>
     </entry>
@@ -37,15 +46,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Wenn-das-Ged%C3%A4chtnis-nachl%C3%A4sst-Demenz-erleben-und-verstehen.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7900.1&amp;NavID=2413.44&amp;startkat=1.218"/>
         <updated>2026-09-23T10:12:14.311Z</updated>
         <content type="html"><![CDATA[ Wie sich der Alltag für Menschen mit Demenz anfühlt, konnten Interessierte am 12. September 2026 im Kulturforum Alzenau bei einer Informationsveranstaltung der Seniorenlotsin Elisabeth Püschel und Nicole Witt von der Fachstelle für Demenz und Pflege Untermain eindrucksvoll erfahren.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ehrenamtsplakette in Silber für Irene Scharwies (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ehrenamtsplakette-in-Silber-f%C3%BCr-Irene-Scharwies.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7897.1&amp;NavID=2413.44&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ehrenamtsplakette-in-Silber-f%C3%BCr-Irene-Scharwies.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7897.1&amp;NavID=2413.44&amp;startkat=1.218"/>
-        <updated>2026-09-23T10:12:14.310Z</updated>
-        <content type="html"><![CDATA[ Seit 25 Jahren steht Irene Scharwies an der Spitze der Arbeitsgemeinschaft Alzenau der Deutschen Rheuma-Liga Bayern. Für dieses außergewöhnliche ehrenamtliche Engagement wurde sie jetzt mit der Ehrenamtsplakette der Stadt Alzenau in Silber ausgezeichnet.
 								
 					weiterlesen »]]></content>
     </entry>
