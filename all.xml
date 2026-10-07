@@ -2,8 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostrubin.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-10-06T21:47:49.686Z</updated>
+    <updated>2026-10-07T11:55:15.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Einladung zur Ausstellungseröffnung der ausgewählten Entwürfe für ehemaliges Wellpappe-Gelände in Alzenau (Alzenau Mitteilungen)]]></title>
+        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Einladung-zur-Ausstellungser%C3%B6ffnung-der-ausgew%C3%A4hlten-Entw%C3%BCrfe-f%C3%BCr-ehemaliges-Wellpappe-Gel%C3%A4nde-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7906.1&amp;NavID=2413.44&amp;startkat=1.218</id>
+        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Einladung-zur-Ausstellungser%C3%B6ffnung-der-ausgew%C3%A4hlten-Entw%C3%BCrfe-f%C3%BCr-ehemaliges-Wellpappe-Gel%C3%A4nde-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7906.1&amp;NavID=2413.44&amp;startkat=1.218"/>
+        <updated>2026-10-07T11:55:15.307Z</updated>
+        <content type="html"><![CDATA[ Mit dem Umzug der Wellpappe in ihr neues Werk im Industriegebiet Nord eröffnet sich mitten in Alzenau eine einmalige städtebauliche Chance: Das rund drei Hektar große ehemalige Werksgelände steht künftig für eine neue Nutzung zur Verfügung. Was hier entstehen könnte, soll der städtebauliche Realisierungswettbewerb zeigen.
+								
+					weiterlesen »]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40 Jahre Wochenmarkt in Alzenau (Alzenau Mitteilungen)]]></title>
         <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/40-Jahre-Wochenmarkt-in-Alzenau.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7905.1&amp;NavID=2413.44&amp;startkat=1.218</id>
@@ -217,15 +226,6 @@
         <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/M%C3%BCllabfuhr-bereits-ab-5-Uhr.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7849.1&amp;NavID=2413.44&amp;startkat=1.218"/>
         <updated>2026-10-02T11:14:24.929Z</updated>
         <content type="html"><![CDATA[ Auf Grund der akuten Hitzewarnung des Deutschen Wetterdiensts DWD verlängert das Landratsamt Aschaffenburg die Vorverlegung der Abfuhrzeiten für die Mülltonnen in seiner Zuständigkeit. Die Tonnen für Altpapier sowie Bio- und Restmüll werden bis einschließlich Freitag, 7. August 2026, bereits ab 5 Uhr morgens geleert. Im Normalfall müssen Mülltonnen erst um 6 Uhr bereit stehen.
-								
-					weiterlesen »]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geänderte Öffnungszeiten während des Alzenauer Stadtfestes (Alzenau Mitteilungen)]]></title>
-        <id>https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ge%C3%A4nderte-%C3%96ffnungszeiten-w%C3%A4hrend-des-Alzenauer-Stadtfestes.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7851.1&amp;NavID=2413.44&amp;startkat=1.218</id>
-        <link href="https://www.alzenau.de/B%C3%BCrger/Rathaus-Service/Ver%C3%B6ffentlichungen/Pressemeldungen-Aktuelles/Ge%C3%A4nderte-%C3%96ffnungszeiten-w%C3%A4hrend-des-Alzenauer-Stadtfestes.php?object=tx,2413.4.1&amp;ModID=7&amp;FID=2413.7851.1&amp;NavID=2413.44&amp;startkat=1.218"/>
-        <updated>2026-10-05T12:29:14.240Z</updated>
-        <content type="html"><![CDATA[ Aufgrund des Alzenauer Stadtfestes bleibt die Stadtbibliothek Alzenau von Freitag, 7. August 2026, bis einschließlich Montag, 10. August 2026, geschlossen.
 								
 					weiterlesen »]]></content>
     </entry>
